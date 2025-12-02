@@ -11,7 +11,7 @@ public class ArraysDemo {
         Arrays.fill(numbers, 8);
         display("After filling with 8s:    ", numbers);
 
-        numbers[2] = 6; 
+        numbers[2] = 6; //changing values
         numbers[4] = 3; 
         display("After changing two values:", numbers);
 
